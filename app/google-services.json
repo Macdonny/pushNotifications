@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084535038126",
+    "firebase_url": "https://ic-project-2.firebaseio.com",
+    "project_id": "ic-project-2",
+    "storage_bucket": "ic-project-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084535038126:android:027e9b3e501dfbf0",
+        "android_client_info": {
+          "package_name": "com.hackgsu.notifications.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084535038126-48e9ja3ufvc904u13f70ji53366kapb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxDG8kdclfgJy1obCPqLwB6tHf7iOkgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
